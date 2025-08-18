@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Rebytre/Rebytre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 | I’m currently working on some smaller projects involving website building languages such as HTML, CSS, and JavaScript.
+  
+- 🌱 | I’m currently learning how to problem solve and relearning some JavaScript.
+  
+- 📫 | How to reach me:
+    Github - https://github.com/Rebytre
+    Youtube - https://www.youtube.com/@rebytre
+    Discord - https://discordapp.com/users/rebytre
+    Gmail - rebytre101@gmail.com
+  
+- 📜🪶 | Weekly Wisdom: "Even the smallest of things need your preparation."
