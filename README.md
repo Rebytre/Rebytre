@@ -4,9 +4,8 @@
   
 - 🌱 | I’m currently learning how to problem solve and relearning some JavaScript.
   
-- 📫 | How to reach me:
-    Github -<br />
-    https://github.com/Rebytre<br />
+- 📫 | How to reach me:<br />
+    Github - https://github.com/Rebytre<br />
     Youtube - https://www.youtube.com/@rebytre<br />
     Discord - https://discordapp.com/users/rebytre<br />
     Gmail - rebytre101@gmail.com<br />
