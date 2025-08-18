@@ -9,5 +9,6 @@
     Youtube - https://www.youtube.com/@rebytre<br />
     Discord - https://discordapp.com/users/rebytre<br />
     Gmail - rebytre101@gmail.com<br />
+    LeetCode - https://leetcode.com/u/Rebytre/
   
 - 📜🪶 | Weekly Wisdom: "Even the smallest of things need your preparation."
