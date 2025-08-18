@@ -5,9 +5,9 @@
 - 🌱 | I’m currently learning how to problem solve and relearning some JavaScript.
   
 - 📫 | How to reach me:
-    Github - https://github.com/Rebytre_ _
-    Youtube - https://www.youtube.com/@rebytre_ _
-    Discord - https://discordapp.com/users/rebytre_ _
-    Gmail - rebytre101@gmail.com_ _
+    Github - https://github.com/Rebytre<br />
+    Youtube - https://www.youtube.com/@rebytre<br />
+    Discord - https://discordapp.com/users/rebytre<br />
+    Gmail - rebytre101@gmail.com<br />
   
 - 📜🪶 | Weekly Wisdom: "Even the smallest of things need your preparation."
