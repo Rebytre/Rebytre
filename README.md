@@ -11,4 +11,4 @@
     Gmail - rebytre101@gmail.com<br />
     LeetCode - https://leetcode.com/u/Rebytre/
   
-- 📜🪶 | Weekly Wisdom: "Even the smallest of things need your preparation."
+- 📜🪶 | Weekly Wisdom: "Skipping a day always kills a habit."
