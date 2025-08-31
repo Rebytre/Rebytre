@@ -11,4 +11,4 @@
     Gmail - rebytre101@gmail.com<br />
     LeetCode - https://leetcode.com/u/Rebytre/
   
-- 📜🪶 | Weekly Wisdom: "Skipping a day always kills a habit."
+- 📜🪶 | Weekly Wisdom: "Life is a lot easier when you have a pre-made path."
