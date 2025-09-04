@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 | I’m currently working on some smaller projects involving website building languages such as HTML, CSS, and JavaScript.
+- 🔭 | I'm currently working on renovating my personal website, which will hopefully be done by tomorrow morning!
   
 - 🌱 | I’m currently learning how to problem solve and relearning some JavaScript.
   
